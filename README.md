@@ -1,2 +1,2 @@
 # drag-and-drop-react
-Created with CodeSandbox
+React drag and drop using react-dnd
