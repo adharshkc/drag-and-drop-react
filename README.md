@@ -1,2 +1,2 @@
 # drag-and-drop-react
-React drag and drop using react-dnd
+React drag and drop items using react-dnd
